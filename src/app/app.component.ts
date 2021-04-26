@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'mydemoappAnjular Ramsuhavan Patel!!!!! Feature2 will create feature3';
+  my = 'my test1 file ';
 }
